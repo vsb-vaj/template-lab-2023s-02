@@ -1,4 +1,4 @@
-# lab-04
+# lab-02
 
 ## Exercise for modules
 1. MOVE ALL FUNCTIONS and array from `functions.js` into separate files in folders `utils` and `data` - split it by comments above functions
@@ -15,5 +15,10 @@ You can start your web server by running `node index.js`
 
 1. Implement all the end points in the index.js
 
+- Recommended tool for sending requests: Postman https://www.postman.com/downloads/   
+- How to send a Post request in Postman
+![image](https://user-images.githubusercontent.com/8086995/223738127-fc28a41b-9f7c-45bf-8e05-045c072f7ae3.png)
+
+
 ## Bonus task:
-1. Implement bonus.sj
+1. Implement bonus.js
